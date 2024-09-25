@@ -282,7 +282,7 @@
   flex-direction: row;
   padding-bottom: 18px;
   justify-content: flex-end;
-  background-color: rgba(251, 39, 90, 0.6);
+  background-color: rgba(36, 94, 219, 0.6);
 }
 .speaker-card-read-more-container:hover {
   opacity: 1;
@@ -362,7 +362,7 @@
   flex-direction: row;
   padding-bottom: 18px;
   justify-content: flex-end;
-  background-color: rgba(251, 39, 90, 0.6);
+  background-color: rgba(36, 94, 219, 0.6);
 }
 .speaker-card-read-more-container1:hover {
   opacity: 1;
@@ -442,7 +442,7 @@
   flex-direction: row;
   padding-bottom: 18px;
   justify-content: flex-end;
-  background-color: rgba(251, 39, 90, 0.6);
+  background-color: (36, 94, 219, 0.6);
 }
 .speaker-card-read-more-container2:hover {
   opacity: 1;
@@ -522,7 +522,7 @@
   flex-direction: row;
   padding-bottom: 18px;
   justify-content: flex-end;
-  background-color: rgba(251, 39, 90, 0.6);
+  background-color: rgba(36, 94, 219, 0.6);
 }
 .speaker-card-read-more-container3:hover {
   opacity: 1;
@@ -602,7 +602,7 @@
   flex-direction: row;
   padding-bottom: 18px;
   justify-content: flex-end;
-  background-color: rgba(251, 39, 90, 0.6);
+  background-color: rgba(36, 94, 219, 0.6);
 }
 .speaker-card-read-more-container4:hover {
   opacity: 1;
@@ -682,7 +682,7 @@
   flex-direction: row;
   padding-bottom: 18px;
   justify-content: flex-end;
-  background-color: rgba(251, 39, 90, 0.6);
+  background-color: rgba(36, 94, 219, 0.6);
 }
 .speaker-card-read-more-container5:hover {
   opacity: 1;
@@ -762,7 +762,7 @@
   flex-direction: row;
   padding-bottom: 18px;
   justify-content: flex-end;
-  background-color: rgba(251, 39, 90, 0.6);
+  background-color: rgba(36, 94, 219, 0.6);
 }
 .speaker-card-read-more-container6:hover {
   opacity: 1;
@@ -842,7 +842,7 @@
   flex-direction: row;
   padding-bottom: 18px;
   justify-content: flex-end;
-  background-color: rgba(251, 39, 90, 0.6);
+  background-color: rgba(36, 94, 219, 0.6);
 }
 .speaker-card-read-more-container7:hover {
   opacity: 1;
@@ -2200,6 +2200,7 @@
   padding-top: var(--dl-space-space-fiveunits);
   flex-direction: column;
 }
+
 .home-max-width3 {
   flex-direction: column;
 }
