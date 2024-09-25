@@ -33,7 +33,6 @@
 .navigation-links-text3:hover {
   color: var(--dl-color-scheme-pink);
 }
-
 @media (max-width: 767px) {
   .navigation-links-nav {
     align-items: flex-start;
@@ -131,9 +130,12 @@
 }
 .navigation-nav1 {
   flex: 0 0 auto;
+  background-color: #b92145;
   display: flex;
   align-items: center;
   flex-direction: row;
+  padding: 2vh;
+  margin: 2vh;
 }
 .navigation-register1 {
   color: var(--dl-color-scheme-darkblue);
